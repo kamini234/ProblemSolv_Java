@@ -1,4 +1,5 @@
 import java.util.LinkedList;
+import java.util.List;
 public class LinkedListDemo {
   public static void displayList() {
         List<String> fruits = new LinkedList<>();
