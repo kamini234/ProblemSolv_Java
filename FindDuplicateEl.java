@@ -1,7 +1,4 @@
-
 import java.util.HashSet;
-
-//FindDuplicateElement
 public class FindDuplicateEl{
     public static void findDuplicate(int[] arr){
 Set<Integer> seen=new HashSet<>();
