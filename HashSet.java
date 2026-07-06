@@ -1,7 +1,6 @@
 public class HashSet {
-    // Create a Method
     public static void displaySet() {
-        java.util.HashSet<Integer> numbers = new java.util.HashSet<>();
+        Set<Integer> numbers = new HashSet<>();
         numbers.add(30);
         numbers.add(40);
         numbers.add(50);
